@@ -2,4 +2,4 @@
 echo "this script is from git hub"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "SCM one is completed!"
+echo "This SCM task one is completed!"
